@@ -1,1 +1,1 @@
-web: uvicorn main:api
+web: uvicorn main:api && sh setup.sh && streamlit run app.py
