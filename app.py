@@ -43,7 +43,6 @@ display_client = X_test_10.loc[X_test_10['level_0']==option_2]
 
 url = 'http://127.0.0.1:8000/Test'
 #url = 'https://dry-peak-32185.herokuapp.com/Test'
-#url = 'https://rocky-springs-46510.herokuapp.com/Test'
 
 data = {
           "ID": option_2
