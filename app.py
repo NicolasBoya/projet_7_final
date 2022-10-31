@@ -10,6 +10,7 @@ import plotly.figure_factory as ff
 import plotly.express as px
 import altair as alt
 import plotly.graph_objects as go
+from streamlit_echarts import st_echarts
 shap.initjs()
 
 #_________   Initialisation______________
@@ -121,7 +122,7 @@ option = {
     }]
 };
 
-#st_echarts(options=option, key="1")
+st_echarts(options=option, key="1")
 
 #________Feature_importance_locale________________________
 
