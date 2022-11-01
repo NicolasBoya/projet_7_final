@@ -18,5 +18,5 @@ https://nbviewer.org/gist/NicolasBoya/ecfa417e618bd3df06875b6d5aca9f17
 Partie 2 (Implémentez un modèle de scoring) : 
 https://nbviewer.org/gist/NicolasBoya/91a60a8f44c936480d62d7a62a9dacef
 
-Sinon voici le lien vers le Git comportant ces fichiers zu format notebook :
+Sinon voici le lien vers le Git comportant ces fichiers zu format notebook. Le lien vers l'application déployée se trouve dans ce dernier à la fin de la note méthodologique :
 https://github.com/NicolasBoya/projet_7_notebook.git
